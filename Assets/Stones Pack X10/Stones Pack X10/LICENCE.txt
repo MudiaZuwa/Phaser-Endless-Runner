@@ -1,0 +1,23 @@
+                                             LICENCE
+Author by place000000
+
+==========================================================================================
+English:
+ This asset pack can be used in both free and commercial projects.
+ You can modify it to suit your own needs.
+ Credit is not needed but appreciated.
+ You may not redistribute it or resell it.
+
+==========================================================================================
+Українська:
+ Цей пакет ресурсів можна використовувати як у безкоштовних, так і в комерційних проектах.
+ Ви можете змінити його відповідно до власних потреб.
+ Кредит не потрібен, але цінується.
+ Ви не можете поширювати або перепродавати його.
+
+==========================================================================================
+Español
+ Este paquete de activos se puede utilizar tanto en proyectos gratuitos como comerciales.
+ Puede modificarlo para adaptarlo a sus propias necesidades.
+ El crédito no es necesario pero apreciado.
+ No puede redistribuirlo ni revenderlo.
