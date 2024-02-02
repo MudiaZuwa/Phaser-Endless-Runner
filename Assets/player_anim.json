@@ -1,0 +1,76 @@
+{
+    "anims": [
+        {
+            "key": "fall",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "tile021"
+                },
+                {
+                    "key": "player",
+                    "frame": "tile022"
+                }
+            ]
+        },
+        {
+            "key": "jump",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "tile011"
+                },
+                {
+                    "key": "player",
+                    "frame": "tile012"
+                }
+            ]
+        },
+        {
+            "key": "run",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "tile000"
+                },
+                {
+                    "key": "player",
+                    "frame": "tile001"
+                },
+                {
+                    "key": "player",
+                    "frame": "tile002"
+                },
+                {
+                    "key": "player",
+                    "frame": "tile003"
+                },
+                {
+                    "key": "player",
+                    "frame": "tile004"
+                },
+                {
+                    "key": "player",
+                    "frame": "tile005"
+                },
+                {
+                    "key": "player",
+                    "frame": "tile006"
+                },
+                {
+                    "key": "player",
+                    "frame": "tile007"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Phaser-Endless-Runner/static/css/main.e6c13ad2.css",
+    "main.js": "/Phaser-Endless-Runner/static/js/main.01dc28b3.js",
+    "index.html": "/Phaser-Endless-Runner/index.html",
+    "main.e6c13ad2.css.map": "/Phaser-Endless-Runner/static/css/main.e6c13ad2.css.map",
+    "main.01dc28b3.js.map": "/Phaser-Endless-Runner/static/js/main.01dc28b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.01dc28b3.js"
+  ]
+}
